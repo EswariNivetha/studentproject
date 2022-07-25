@@ -1,0 +1,7 @@
+# Project exclude paths
+/customexception/target/
+/studentdbconnection/target/
+/studentfeature/target/
+/studentinputs/target/
+/studentmanagement/target/
+/validation/target/

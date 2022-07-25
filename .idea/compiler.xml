@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="studentinputs" />
+        <module name="studentfeature" />
+        <module name="studentmanagement" />
+        <module name="studentdbconnection" />
+        <module name="customexception" />
+        <module name="validation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="studentaddress" target="1.8" />
+      <module name="studentfeature2" target="17" />
+      <module name="studentfeature3" target="17" />
+      <module name="studentmodel" target="1.8" />
+      <module name="studentservicecontroller" target="17" />
+      <module name="studentview" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
